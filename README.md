@@ -1,5 +1,7 @@
 # Lil-Players-Actions
 
+PLEASE DONATE: https://github.com/juandayz/Lil-Players-Actions/blob/master/DONATION.md
+
 Allow players to eat tree barks (the skin of a tree)  and drink his own blood.  Just in a last instance where he are daying of hunger or thirs.
 
 ***INSTALL:***
